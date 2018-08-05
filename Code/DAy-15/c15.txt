@@ -1,0 +1,8 @@
+/ Day 15 problem for Python developers
+
+1. Write a program that returns the number of occurrence of all the characters in a string.
+
+Input : 'aaahhabbjkjjkkl'
+Result: a, 4, h, 2, b, 2, j, 3, k, 2, l, 1
+
+You can print it in any format but we need to find out the frequency of various characters.
